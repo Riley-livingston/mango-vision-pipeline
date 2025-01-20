@@ -1,6 +1,6 @@
 # 🥭 Visual Search Service
 
-A containerized machine learning service for visual search capabilities using PyTorch, MMYolo, and TinySAM.
+A containerized machine learning service for Trading Card visual search capabilities using PyTorch, MMYolo, and TinySAM.
 
 ## Overview
 
