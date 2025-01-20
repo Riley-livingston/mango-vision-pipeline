@@ -37,7 +37,7 @@ Before building the container, you'll need to:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mango-vision-pipeline.git
+    git clone https://github.com/riley-livingston/mango-vision-pipeline.git
     cd mango-vision-pipeline
     ```
 
