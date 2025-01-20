@@ -1,0 +1,12 @@
+Flask==2.0.1
+gunicorn==20.1.0
+timm==0.6.12
+torch==2.0.0
+torchvision==0.15.1
+opencv-python-headless==4.5.5.64
+Pillow==9.5.0
+numpy==1.24.3
+mysql-connector-python==8.0.33
+pinecone-client==2.2.2
+supervision==0.13.0
+python-dotenv==1.0.0

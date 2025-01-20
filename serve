@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Activate the right environment if necessary
+
+# Start the Flask application with Gunicorn
+exec gunicorn --bind 0.0.0.0:8080 app:app
