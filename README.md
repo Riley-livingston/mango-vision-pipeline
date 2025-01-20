@@ -1,4 +1,4 @@
-# Visual Search Service
+# 🥭 Visual Search Service
 
 A containerized machine learning service for visual search capabilities using PyTorch, MMYolo, and TinySAM.
 
